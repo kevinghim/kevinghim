@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm technical product lead turned entrepreneur. I'm currently building a knowledge-as-a-service platform using AI + Blockchain. I was previously at Consensys–MetaMask, Symbiont, Mozilla Firefox, and other media companies. I was cofounder for the social incubator, IceLounge, and took one of its properties, MomsCorner, public (as BHLD).  🕺🏽
+I'm technical product lead turned entrepreneur. I'm currently building a knowledge-as-a-service platform using AI + Blockchain. I was previously at Consensys–MetaMask, Symbiont, Mozilla Firefox, and other media companies. I was cofounder for the social incubator, IceLounge, and took one of its properties, MomsCorner, public (as BHLD).  
 
 ### 🔭 I’m working on
 
