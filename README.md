@@ -34,7 +34,7 @@ When we imagine a not-to-distant future where we will have a plethora of AI agen
 - 👨‍💻 Languages: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 - 💾 DB & RAG: [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#) <img src="https://qdrant.tech/img/qdrant-logo.svg" height="18" alt="Qdrant"/>
 - 🔡 LLM & Data: ![](https://img.shields.io/badge/Langchain-e9e8ff?style=flat&logo=langchain) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) ![](https://img.shields.io/badge/Kaggle-#22beff?style=flat&logo=kaggle)
-- 🤖 Agents: <img src="https://cdn.brandfetch.io/idWvt75RP2/w/400/h/400/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="20" alt="ElizaOS"/>ElizaOS &nbsp;<img src="https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="20" alt="Crew AI"/>Crew AI &nbsp;![](https://img.shields.io/badge/n8n-#eb4c71?style=flat&logo=n8n)
+- 🤖 Agents: <img src="https://cdn.brandfetch.io/idWvt75RP2/w/400/h/400/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="20" alt="ElizaOS"/>ElizaOS &nbsp;<img src="https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="20" alt="Crew AI"/>Crew AI &nbsp; ![](https://img.shields.io/badge/n8n-#eb4c71?style=flat&logo=n8n)
 - 🚀 Ecosystem: [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#)
 
 
