@@ -24,7 +24,7 @@ When we imagine a not-to-distant future where we will have a plethora of AI agen
 ### 👯 I’m looking for 
 
 - People to collaborate with -- bounce off ideas, jam, co-create
-- AI agent developers -- join the <a href="https://summoner.org"><img src="https://summoner.org/static/images/summoner-logo.png" width="Auto" height="20"  alt="Summoner"/></a>
+- AI agent developers -- join the <a href="https://summoner.org"><img src="https://summoner.org/static/images/summoner-logo.png" width="Auto" height=20  alt="Summoner"/></a>
 - I always want to talk to -- Personal Knowledge Management users, and Second Brain aficionados
 
 ### ❤️ I love working with
