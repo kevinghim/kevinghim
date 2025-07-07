@@ -24,7 +24,7 @@ When we imagine a not-to-distant future where we will have a plethora of AI agen
 ### 👯 I’m looking for 
 
 - People to collaborate with -- bounce off ideas, jam, co-create
-- Specific domain knowledge owners -- scientific research, medical, legal, etc.
+- AI agent developers -- join the [![Summoner Network]]([#](https://github.com/Summoner-Network))!
 - I always want to talk to -- Personal Knowledge Management users, and Second Brain aficionados
 
 ### ❤️ I love working with
