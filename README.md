@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm technical product lead turned entrepreneur. I'm currently building a knowledge-as-a-service platform using AI + Blockchain. I was previously at Consensys–MetaMask, Symbiont, Mozilla Firefox, and other media companies. I was cofounder for the social incubator, IceLounge, and took one of its properties, MomsCorner, public (as BHLD).  
+I'm technical product lead turned entrepreneur. I'm currently building an inter-agent coordination protocol. I was previously at Consensys–MetaMask, Symbiont, Mozilla Firefox, and other media companies. I was cofounder for the social incubator, IceLounge, and took one of its properties, MomsCorner, public (as BHLD).  
 
 ### 🔭 I’m working on
 
-When we imagine a not-to-distant future where we will have a plethora of AI agents. Some will be truly autonomous AI agents acting on behalf of the user. But most will be sophisticated AI workflows that need orchestration with applications, LLMs and other agents. We want to be in the middle of this, being the decentralized data sourcing, agent orchestration and secure communication layer. At the core, I think a lot about not just storing data, but how we can amplify human potential.
+What an incredible time we live in. AI is literally shifting the ground underneath us and we're rapidly transitioning into a post-web world. We're moving from a world where users "read, write, own" to one where they'll be delegating their trust to AI agents. We're not just seeing the glimpses of this, the agentic web has already begun -- 82% of large enterprises plan to integrate AI agents within 3 years.
+A new era is upon us!
 
 ### 👯 I’m looking for 
 
